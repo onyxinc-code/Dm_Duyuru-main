@@ -1,0 +1,11 @@
+{
+  "token": "bot-tokeniniz",
+  "prefix": "+",
+  "owners": ["kendi-idniz"],
+  "statuses": [
+    "Wase ile hizmette",
+    "Discord: orjinal_wase",
+    "DM Duyuru Sistemi"
+  ],
+  "timers": 10
+}

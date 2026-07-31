@@ -1,0 +1,28 @@
+{
+  "name": "wase-dmduyuru-local",
+  "version": "1.0.0",
+  "description": "Discord bot for DM announcements, locally configured by Wase",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "dm",
+    "announcement",
+    "wase"
+  ],
+  "author": "wase",
+  "contributors": [
+    "Wase (Discord: orjinal_wase)"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "discord.js": "^13.17.1"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
