@@ -1,10 +1,7 @@
-# Wase DM Duyuru Botu
 
-Bu kopya, yerel kullanim ve kurulum kolayligi icin Wase tarafindan duzenlenmistir.
 
-Kurulum ve duzenleme:
-- Wase
-- Discord: `orjinal_wase`
+Bu kopya, yerel kullanim ve kurulum kolayligi icin xxxx tarafindan duzenlenmistir.
+
 
 ## Ne ise yarar?
 
@@ -46,5 +43,5 @@ npm start
 
 Bu proje orijinal lisans kosullarina tabidir. Orijinal kaynak ve lisans korunmustur.
 
-- Orijinal atif: orjinal_wase
+- Orijinal atif: orjinal_xxxx
 - Lisans dosyasi: [LICENSE](./LICENSE)
